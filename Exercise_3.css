@@ -1,0 +1,16 @@
+.button{
+    margin: none;
+    border: 10px,5px;
+    border-radius: 15px;
+ width: 150px;
+ height: 50px;
+
+}
+#bt{
+    background-color: rgb(89, 72, 184);
+    width: 250px;
+}
+#cli{
+    background-color: rgb(19, 214, 81);
+    
+}
